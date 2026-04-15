@@ -6,6 +6,8 @@
     {"id": 2, "task": "Entender o que é Git e GitHub"},
     {"id": 3, "task": "Criar meu primeiro Pipeline"},
     {"id": 4, "task": "Fazer meu primeiro Deploy"},
-    {"id": 5, "task": "Ser um hacker estagiário"}
+    {"id": 5, "task": "Testar meu App"},
+    {"id": 6, "task": "Publicar meu App"},
+    {"id": 7, "task": "Ser um estagiário de TI"}
   ]
 }
